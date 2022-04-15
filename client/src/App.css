@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+.heading{
+  
+  margin-top: 10%;
+}
+
+.productDiv img{
+  height: 200px;
+  width: 200px;
+}
+
+.productDiv {
+  display: inline-block;
+  border-style: solid;
+  margin: 1rem;
+  border-width: 1px;
+  text-align: center;
+}
+
+.productName{
+  font-size: 30px;
+  padding-bottom: 5px;
+}
+
+.productPrice{
+  font-size: 20px;
+  padding-bottom: 5px;
+  color: green;
+}
+
+
+.productDiv button {
+    margin: 10px;
+    background-color: #FF2E63;
+ 
+    color: white;
+    border-style: none;
+    width: 100px;
+    height: 25px;
+}
+.productDiv input{
+  margin-left: 10px;
+}
+
+
+.theMainContainer{
+  display: flex;
+}
+
+
+.containerTwo{
+  width: 70%;
+}
+
+
+.MainHeading{
+  background-color: #06113C;
+  color: #EEEEEE;
+  font-family: 'Updock', cursive;
+  
+  font-size: 40px;
+  padding: 1rem;
+  padding-left: 2rem;
+}
+
+.containerOne{
+  margin-top: 10rem;
+}
+
+
+.product h1{
+  font-size: 25px;
+}
+
+
+.product input{
+  margin: 10px;
+  height: 30px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+
+.heading{
+  margin: 1rem;
+  margin-left: 5rem;
+  color: #06113C;
+}
+
+
+.product button{
+  width: 300px;
+  height: 35px;
+  margin-left: 4rem;
+  margin-top: 1rem;
+  background-color: #3F72AF;
+}
